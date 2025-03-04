@@ -3,3 +3,4 @@ spleeter
 werkzeug
 tensorflow
 ffmpeg-python
+numpy==1.18.5
