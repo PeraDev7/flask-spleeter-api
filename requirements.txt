@@ -1,0 +1,5 @@
+flask
+spleeter
+werkzeug
+tensorflow
+ffmpeg-python
